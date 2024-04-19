@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T16:17:22.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="UqGotnIdDaVjQAEDRZQz" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T16:12:05.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="LHoRFBq-Y5FN7xd8GMDv" version="24.2.5" type="github">
   <diagram name="Page-1" id="f9k9ulHIZrHphQu0rKdZ">
     <mxGraphModel dx="1257" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6J9riJxoOlW85ozBuu5x-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+        <mxCell id="6J9riJxoOlW85ozBuu5x-2" value="Responsable&lt;div&gt;carte&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="820" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6J9riJxoOlW85ozBuu5x-40" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
